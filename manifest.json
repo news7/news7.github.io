@@ -1,0 +1,21 @@
+{
+  "short_name": "news7",
+  "name": "The news7",
+  "icons": [
+    {
+      "src": "https://github.githubassets.com/favicon.ico",
+      "type": "image/ico",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://github.com/fluidicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "news7.github.io/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "news7.github.io/",
+  "theme_color": "#3367D6"
+}
